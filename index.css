@@ -141,7 +141,6 @@ hr.intro-divider {
 }
 
 .btn:hover {
-  color: #fff;
   border: 2px outset rgba(0, 0, 0, 0.9);
   background: rgba(0, 0, 0, 0.9);
   transform: scale(1.1);
