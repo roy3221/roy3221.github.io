@@ -1,9 +1,8 @@
 body,
 html {
   width: 100%;
-  height: 100%;
+  height: 100%
 }
-
 body,
 h1,
 h2,
@@ -11,14 +10,14 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 
 .topnav {
   font-size: 16px;
   border-bottom: 1px outset rgba(192, 192, 192, 0.5);
-  background: rgba(192, 192, 192, 0.9);
+  background: rgba(0, 0, 0, 0.4);
   box-shadow: 0px 1px rgba(0, 0, 0, 0.3);
 }
 
@@ -58,7 +57,7 @@ h6 {
   /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
   padding-bottom: 50px;
   text-align: center;
-  background: url('https://40.media.tumblr.com/1b916597d3e174399cb7adadddb66ede/tumblr_nt5uk4psl31ud7rr3o1_1280.jpg') no-repeat center center fixed;
+  background: url('https://photos-4.dropbox.com/t/2/AAB5Cm8MVDFE5YobHTMZgR1O4DipVWPXQW7rskW-ot1vOw/12/469608207/jpeg/256x256/1/_/1/2/world-wallpaper-1.jpg/EI_Q0eYDGO6ZAiAHKAc/5uGYtrmRnx5plQ11woGw4y9T9lbVEKMeYk0MKn-362s?size_mode=3&size=2048x1536') no-repeat center center fixed;
   background-size: cover;
   height: 855px;
 }
@@ -157,7 +156,7 @@ hr.intro-divider {
 
 .content-section-a {
   padding: 50px 0;
-  background: url('https://41.media.tumblr.com/eb2382a5a4c996cfdab27bc0d1eb51ff/tumblr_nt5umxS1FY1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+  background: url('https://photos-2.dropbox.com/t/2/AAD9F38W_f3RwbT4R32x4y9eWCnsuHtyaxVP5KnX4yCvNw/12/469608207/jpeg/32x32/1/_/1/2/road.jpg/EI_Q0eYDGIaaAiAHKAc/_LONRGwpndwWMXB3AFXpfddvMsi_EdYZNHerlMQAwpM?size=1024x768&size_mode=3') no-repeat center center fixed;
   background-size: cover;
   height: 855px;
 }
@@ -217,7 +216,7 @@ h2.section-heading {
 
 section {
   color: black;
-  background: url('https://41.media.tumblr.com/92e61775d4c3edcc5145936e3703d125/tumblr_nt5uo9fH9y1ud7rr3o1_1280.jpg') no-repeat center center fixed;
+  background: url('https://photos-1.dropbox.com/t/2/AACtGvE8Bpw8H5AlC_7x5woLxEWy7qlPgnT5951vwUvmqA/12/469608207/jpeg/32x32/1/_/1/2/wood.jpg/EI_Q0eYDGICaAiAHKAc/NWwGUEkUYdJJZTx6QAswfMbVky01Mk0FDfE0bLZNhWo?size=1024x768&size_mode=3') no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -349,9 +348,12 @@ section {
 
 .banner {
   padding: 100px 0;
-  background: url('https://41.media.tumblr.com/ac46aa24b44b5036e9200abb71f810d9/tumblr_nt5vzxV6Us1ud7rr3o1_1280.jpg') no-repeat center center fixed;
-  background-size: cover;
+  background: url('https://photos-1.dropbox.com/t/2/AACb7KDx7RgxmHV1AmEY68qbwXF-IkgyOXnDCaJczSEGfg/12/469608207/jpeg/32x32/1/_/1/2/cup.jpg/EI_Q0eYDGICaAiAHKAc/a-B32Ov0B3j0EbhNZrH7BAAv_O2kJE3zqo9GvmI5kcw?size=1024x768&size_mode=3') no-repeat center center fixed;
   height: 755px;
+  background-size: cover;
+
+
+
 }
 
 .bg-overlay4 {
