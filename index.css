@@ -56,14 +56,13 @@ font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 /*top background*/
 
 .intro-header {
-  height: 855px;
   padding-top: 50px;
   /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
   padding-bottom: 50px;
   text-align: center;
   background: url('https://photos-4.dropbox.com/t/2/AAB5Cm8MVDFE5YobHTMZgR1O4DipVWPXQW7rskW-ot1vOw/12/469608207/jpeg/256x256/1/_/1/2/world-wallpaper-1.jpg/EI_Q0eYDGO6ZAiAHKAc/5uGYtrmRnx5plQ11woGw4y9T9lbVEKMeYk0MKn-362s?size_mode=3&size=2048x1536') no-repeat center center fixed;
   background-size: cover;
-  height: 855px;
+  
 }
 
 .bg-overlay {
