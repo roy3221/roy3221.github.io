@@ -363,6 +363,9 @@ section {
   background: url("images/cup.jpg");
  background-repeat:no-repeat;
   background-attachment:fixed;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size:cover; 
   background-size: cover;
   background-color: #464646;
 
