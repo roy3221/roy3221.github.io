@@ -62,11 +62,7 @@ font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: url('https://photos-4.dropbox.com/t/2/AAB5Cm8MVDFE5YobHTMZgR1O4DipVWPXQW7rskW-ot1vOw/12/469608207/jpeg/256x256/1/_/1/2/world-wallpaper-1.jpg/EI_Q0eYDGO6ZAiAHKAc/5uGYtrmRnx5plQ11woGw4y9T9lbVEKMeYk0MKn-362s?size_mode=3&size=2048x1536') ;
   background-repeat:no-repeat;
   background-attachment:fixed;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -webkit-background-size:cover; 
   background-size: cover;
-  background-color: #464646;
 }
 
 .bg-overlay {
@@ -420,8 +416,4 @@ h2.connect {
 footer {
   padding: 50px 0;
   background: rgba(192, 192, 192, 0.9);
-}
-
-p.copyright {
-  margin: 15px 0 0;
 }
