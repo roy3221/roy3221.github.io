@@ -1,3 +1,7 @@
+.container-fluid{
+    
+  }
+
 body,
 html {
   width: 100%;
@@ -59,7 +63,7 @@ font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
   padding-bottom: 50px;
   text-align: center;
-  background: url('https://photos-4.dropbox.com/t/2/AAB5Cm8MVDFE5YobHTMZgR1O4DipVWPXQW7rskW-ot1vOw/12/469608207/jpeg/256x256/1/_/1/2/world-wallpaper-1.jpg/EI_Q0eYDGO6ZAiAHKAc/5uGYtrmRnx5plQ11woGw4y9T9lbVEKMeYk0MKn-362s?size_mode=3&size=2048x1536') ;
+  background: url("images/world.jpg");
   background-repeat:no-repeat;
   background-attachment:fixed;
   background-size: cover;
@@ -159,12 +163,9 @@ hr.intro-divider {
 
 .content-section-a {
   padding: 50px 0;
-  background: url('https://photos-2.dropbox.com/t/2/AAD9F38W_f3RwbT4R32x4y9eWCnsuHtyaxVP5KnX4yCvNw/12/469608207/jpeg/32x32/1/_/1/2/road.jpg/EI_Q0eYDGIaaAiAHKAc/_LONRGwpndwWMXB3AFXpfddvMsi_EdYZNHerlMQAwpM?size=1024x768&size_mode=3') center center;
+  background: url("images/road.jpg");
   background-repeat:no-repeat;
   background-attachment:fixed;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -webkit-background-size:cover; 
   background-size: cover;
   background-color: #464646;
 }
@@ -224,12 +225,9 @@ h2.section-heading {
 
 section {
   color: black;
-  background: url('https://photos-1.dropbox.com/t/2/AACtGvE8Bpw8H5AlC_7x5woLxEWy7qlPgnT5951vwUvmqA/12/469608207/jpeg/32x32/1/_/1/2/wood.jpg/EI_Q0eYDGICaAiAHKAc/NWwGUEkUYdJJZTx6QAswfMbVky01Mk0FDfE0bLZNhWo?size=1024x768&size_mode=3') center center;
+  background: url("images/wood.jpg");
  background-repeat:no-repeat;
-  background-attachment:fixed;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -webkit-background-size:cover; 
+  background-attachment:fixed; 
   background-size: cover;
   background-color: #464646;
 }
@@ -362,12 +360,9 @@ section {
 
 .banner {
   padding: 100px 0;
-  background: url('https://photos-1.dropbox.com/t/2/AACb7KDx7RgxmHV1AmEY68qbwXF-IkgyOXnDCaJczSEGfg/12/469608207/jpeg/32x32/1/_/1/2/cup.jpg/EI_Q0eYDGICaAiAHKAc/a-B32Ov0B3j0EbhNZrH7BAAv_O2kJE3zqo9GvmI5kcw?size=1024x768&size_mode=3') no-repeat center center fixed;
+  background: url("images/cup.jpg");
  background-repeat:no-repeat;
   background-attachment:fixed;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -webkit-background-size:cover; 
   background-size: cover;
   background-color: #464646;
 
