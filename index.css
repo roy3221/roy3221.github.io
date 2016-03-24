@@ -1,9 +1,9 @@
-@import 
+@import
 url(http://fonts.googleapis.com/css?family=Raleway:400,500);
 
 
 .container-fluid{
-    
+
   }
 
 body,
@@ -233,7 +233,7 @@ section {
   color: black;
   background: url("images/wood.jpg");
  background-repeat:no-repeat;
-  background-attachment:fixed; 
+  background-attachment:fixed;
   background-size: cover;
   background-color: #464646;
 }
@@ -355,7 +355,7 @@ section {
 }
 .col-md-4:hover {
   transition: 0.5s;
-  box-shadow: 5px 10px 5px rgba(0,0,0,0.9);  
+  box-shadow: 5px 10px 5px rgba(0,0,0,0.9);
 }*/
 
 .section-heading-spacer {
@@ -371,7 +371,7 @@ section {
   background-attachment: fixed;
   -o-background-size: cover;
   -moz-background-size: cover;
-  -webkit-background-size:cover; 
+  -webkit-background-size:cover;
   background-size: cover;
   background-color: #464646;
 
@@ -422,29 +422,22 @@ footer {
   background: rgba(192, 192, 192, 0.9);
 }
 
-
+/*quotation*/
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
 .quote-box {
   border-radius:10px;
   position:relative;
-  margin:8% auto auto auto;
-  width:450px;
   padding:40px 50px;
   display:table;
-  background-color:rgba(192, 192, 192, 0.6);
-  
-  .quote-text {
-    i{
-      font-size:1.0em;
-      margin-right: 0.4em;
-    }
-    
+  background: rgba(192, 192, 192, 0.7);
   }
+
   .quote-author {
     width:450px;
     height:auto;
     clear:both;
     padding-top:20px;
-    font-size:1em; 
+    font-size:1em;
     text-align:right;
   }
   .buttons {
@@ -466,7 +459,20 @@ footer {
       &:hover {
         opacity:0.9;
       }
-      &#new-quote {
+      #new-quote {
         float:right;
       }
-	}
+
+      #tweet-quote, #tumblr-quote {
+        float:left;
+        padding:0px;
+        padding-top:8px;
+        text-align:center;
+        font-size:1.2em;
+        margin-right:5px;
+        height:30px;
+        width:40px;
+      }
+
+    }
+  }
